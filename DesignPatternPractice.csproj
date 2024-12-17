@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <Folder Include="Memento\Example_02\Interfaces\" />
+    <Folder Include="Example\Example_01\Interfaces\" />
+    <Folder Include="Example\Example_01\Models\" />
   </ItemGroup>
 
 </Project>
